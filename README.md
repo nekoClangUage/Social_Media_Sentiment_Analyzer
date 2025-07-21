@@ -7,7 +7,6 @@ Modules used were: Scikit-learn (Machine Learning), Pandas (for .csv files), re 
 Original Data were taken from https://www.kaggle.com/datasets/kashishparmar02/social-media-sentiments-analysis-dataset/data.
 
 Also this repository contains temporary results (sentimentdataset_sentimentsChanged.csv; preprocessed_text_and_sentiments.csv)
-
 Original dataset has the following name: "sentimentdataset.csv"
 
 
